@@ -1,4 +1,4 @@
-strieberorg
+http://strieber.org
 ===========
 
-Strieber.org
+The rails application running strieber.org.
